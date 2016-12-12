@@ -6,3 +6,4 @@ int main(){
 
     int_ptr = &int_var; //put the address of int_var into int_ptr
 }
+
