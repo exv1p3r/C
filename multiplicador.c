@@ -1,5 +1,5 @@
 #include <stdio.h>
-main(){
+int main(){
     int multiplicador;      /*Definiendo el multiplicador como un entero*/
     int multiplicando;      /*Definiendo el multiplicando como un entero*/
     int resultado;          /*Defino resultado como un entero*/
