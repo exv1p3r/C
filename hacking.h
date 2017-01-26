@@ -16,7 +16,7 @@ void dump(const unsigned char *data_buffer, const unsigned int length){
                 else
                 printf(".");
             }
-            printf("\n"); // End of the dump line (each line is 16 bytes)
+            printf("\n"); /* End of the dump line (each line is 16 bytes) */
         } 
     }
 }
